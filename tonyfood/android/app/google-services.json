@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104258182551",
+    "project_id": "tonyfood-2ea99",
+    "storage_bucket": "tonyfood-2ea99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104258182551:android:fe2171dcd691f6750c78d2",
+        "android_client_info": {
+          "package_name": "com.example.tonyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104258182551-v352c7p9fu0vvc0nme02svuatr3cbkaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZF36yXyr-aw8Jju8zKev1H_5U30fne4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104258182551-v352c7p9fu0vvc0nme02svuatr3cbkaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
